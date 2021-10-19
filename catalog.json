@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Expediente Warren",
+    "description": "Tras enfrentarse al exorcismo de un niño, el matrimonio Ed (Patrick Wilson) y Lorraine (Vera Farmiga) Warren, tratarán de demostrar la inocencia de un asesino ejecutado bajo posesión demoniaca",
+    "image_url": "https://raw.githubusercontent.com/rocioseoane/fp/1f352d0168718c54d64fab49f448f3050b3357bd/expediente_warren.jpg?token=AWD3CPRVK6ACAFVNP5QDKE3BN2ZW6"
+  },
+  {
+    "name": "It",
+    "description": "La película cuenta la historia de siete niños marginados del municipio de Derry, Maine (EE. UU.), que se llaman a sí mismos El Club de los Perdedores. Todos se han visto marginados por uno u otro motivo; todos cargan con alguna de las cualidades favoritas de los abusones de la ciudad... y todos han visto sus peores pesadillas hacerse realidad en forma de un antiguo depredador que cambia de forma y al que solo logran llamar eso.",
+    "image_url": "https://raw.githubusercontent.com/rocioseoane/fp/1f352d0168718c54d64fab49f448f3050b3357bd/it.jpg?token=AWD3CPQUXC7AMPJNBBNMXZLBN2Z6U"
+  },
+  {
+    "name": "La llorona",
+    "description": "Con las palabras si lloras, te mato resonando aún en sus oídos, Alma y sus hijos fueron asesinados en el conflicto armado de Guatemala. Treinta años después, se abre una causa penal contra Enrique Monteverde, un general retirado que estuvo al frente del genocidio. Pero el juicio donde es condenado es declarado nulo y él es absuelto. Entonces, el espíritu de La Llorona se libera para vagar por el mundo como un alma perdida entre los vivos.. Por las noches, el ex-militar comienza a escucharla llorar, y su mujer y su hija creen que está sufriendo accesos de demencia senil.",
+    "image_url": "https://raw.githubusercontent.com/rocioseoane/fp/1f352d0168718c54d64fab49f448f3050b3357bd/la_llorona.jpg?token=AWD3CPROR523WG3PV763HJ3BN2Z7A"
+  },
+  {
+    "name": "La monja",
+    "description": "Tras la muerte de una joven monja en un convento de Rumanía El Vaticano envía para realizar una investigación a una monja a punto tomar los votos y a un cura experto en posesiones. Una terrible confrontación entre el mundo de los vivos y el de los muertos se producirá con su llegada al convento.",
+    "image_url": "https://raw.githubusercontent.com/rocioseoane/fp/1f352d0168718c54d64fab49f448f3050b3357bd/la_monja.jpg?token=AWD3CPRNUCDZCX5R6YEELALBN2Z7K"
+  },
+  {
+    "name": "No respires",
+    "description": "Tres amigos allanan la morada de un ermitaño invidente para dar lo que suponen un golpe fácil solo para descubrir que su vida corre peligro en una aterradora pesadilla desencadenada en No Respires, el segundo largometraje del guionista y director Fede Álvarez (Posesión infernal) y el legendario realizador Sam Raimi.",
+    "image_url": "https://raw.githubusercontent.com/rocioseoane/fp/1f352d0168718c54d64fab49f448f3050b3357bd/no_respires.jpg?token=AWD3CPVSSA3ZF2T2FZPQVETBN2Z7S"
+  }
+]
